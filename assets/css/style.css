@@ -50,7 +50,7 @@ a {
     text-decoration: none;
 }
 
-/*Main Section Styling*/
+/*Main Page Image*/
 
 .hero {
     height: 800px;
@@ -60,6 +60,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/*Main Section Styling*/
 
 .content {
     width: 75%;
@@ -135,7 +137,7 @@ p {
     font-size: 16px;
 }
 
-/*Benefits Section Styling*/
+/*Service Benefits Section Styling*/
 
 .benefits {
     margin-right: 20px;
