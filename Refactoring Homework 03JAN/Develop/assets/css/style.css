@@ -1,3 +1,4 @@
+/*Style Applied to Entire Page*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/*Header Styling*/
 
 .header {
     padding: 20px;
@@ -47,9 +50,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/*Main Section Styling*/
 
 .hero {
     height: 800px;
@@ -130,6 +131,12 @@ p {
     font-size: 36px;
 }
 
+p {
+    font-size: 16px;
+}
+
+/*Benefits Section Styling*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +195,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*Footer Styling*/
 
 .footer {
     padding: 30px;
