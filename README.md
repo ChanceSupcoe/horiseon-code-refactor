@@ -10,3 +10,4 @@ This project consisted of refactoring the existing Horiseon webpage to improve a
 * Elements placed in logical order
 * Comments added for future developers
 * Descriptive title applied
+* Alternate image attributes added
